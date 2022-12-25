@@ -1,14 +1,15 @@
-# MongoDB Cheat Sheet for help
+# __MongoDB Cheat Sheet For Beginners__
+<br/>
 
-## Check `mongosh` Version
+## Check mongosh Version
 
-```js
+```
 mongosh --version
 ```
 
 ## Start the Mongo Shell
 
-```js
+```
 mongosh "YOUR_CONNECTION_STRING" --username YOUR_USER_NAME
 ```
 
